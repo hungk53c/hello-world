@@ -2,7 +2,7 @@
     "name": "hungk53c/hello-world",
     "description": "the first composer package",
     "type": "php",
-    "license": "1.0",
+    "license": "proprietary",
     "authors": [
         {
             "name": "hungk53c",
