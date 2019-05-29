@@ -1,11 +1,11 @@
 {
-    "name": "cppc/hello-world",
+    "name": "hungk53c/hello-world",
     "description": "the first composer package",
     "type": "php",
     "license": "1.0",
     "authors": [
         {
-            "name": "cppc",
+            "name": "hungk53c",
             "email": "hungnguyen.apptech@gmail.com"
         }
     ],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cppc\\SayHello\\": "src/"
+            "hungk53c\\SayHello\\": "src/"
         }
     }
 }
